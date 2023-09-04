@@ -39,6 +39,10 @@ Execute o seguinte comando para instalar as dependências do backend:
 
 npm install
 
+link do banco: https://drive.google.com/drive/folders/1TUJgxhWPN9DCarxJCLDbdXNJJckQBtrD?usp=sharing
+
+Apos restaurar o banco, mude o nome do database(linha 15) no Index.js para o nome criou.
+
 Após instalação concluida execute o comando:  npm run dev
 
 
